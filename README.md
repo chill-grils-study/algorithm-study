@@ -37,4 +37,4 @@
 |Week 7|[에디터](https://www.acmicpc.net/problem/1406)|[숨바꼭질3](https://www.acmicpc.net/problem/13549)|[부등호](https://www.acmicpc.net/problem/2529)|
 |Week 8|[고층건물](https://www.acmicpc.net/problem/1027)|[신입사원](https://www.acmicpc.net/problem/1946)|
 |Week 9|[두배더하기](https://www.acmicpc.net/problem/12931)|[완전이진트리](https://www.acmicpc.net/problem/9934)|[세번째](https://www.acmicpc.net/problem/5619)|
-|Week 10|[랩실에서 잘 자요](https://www.acmicpc.net/problem/27446)|||
+|Week 10|[랩실에서 잘 자요](https://www.acmicpc.net/problem/27446)|[우체국1](https://www.acmicpc.net/problem/18442)|[테트로미노](https://www.acmicpc.net/problem/14500)|
