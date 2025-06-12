@@ -4,9 +4,7 @@ const [N, P] = input[0].split(' ').map(Number)
 const plays = input.slice(1).map(e => e.split(' ').map(Number))
 let count = 0
 const stack = Array.from({ length: N + 1 }, () => [])
-for (let play of plays) {
-  const [sound, fret] = play
-
+for (const [sound, fret] of plays) {
   // 더 높은 프렛 누르기 (또는 아무 것도 없음)
   if (stack[sound].length === 0 || stack[sound].at(-1) < fret) {
     stack[sound].push(fret)
