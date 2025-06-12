@@ -40,4 +40,5 @@
 |Week 10|[랩실에서 잘 자요](https://www.acmicpc.net/problem/27446)|[우체국1](https://www.acmicpc.net/problem/18442)|[테트로미노](https://www.acmicpc.net/problem/14500)|
 |Week 11|[퇴사2](https://www.acmicpc.net/problem/15486)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)||
 |Week 12|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)|
+[Week 13|[징검다리건너기](https://www.acmicpc.net/problem/21317)|||
 
