@@ -22,9 +22,12 @@ for (let i = 0; i < n - 1; i++) {
       )
     }
     if (i + 3 < n && usedVeryBigJump === 0) {
-      dp[i + 3][1] = Math.min(dp[i + 3][1], dp[i][0] + k)
+      dp[i + 3][usedVeryBigJump + 1] = Math.min(
+        dp[i + 3][usedVeryBigJump + 1],
+        dp[i][usedVeryBigJump] + k
+      )
     }
   }
 }
-console.log(dp)
+
 console.log(Math.min(...dp.at(-1)))
