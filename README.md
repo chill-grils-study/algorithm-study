@@ -41,5 +41,5 @@
 |Week 11|[퇴사2](https://www.acmicpc.net/problem/15486)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)||
 |Week 12|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)|
 |Week 13|[징검다리건너기](https://www.acmicpc.net/problem/21317)|[용액](https://www.acmicpc.net/problem/2467)|[촌수계산](https://www.acmicpc.net/problem/2644)|
-|Week 14|[토마토](https://www.acmicpc.net/problem/7576)|[회전 초밥](https://www.acmicpc.net/problem/2531)|[]()|
+|Week 14|[토마토](https://www.acmicpc.net/problem/7576)|[회전 초밥](https://www.acmicpc.net/problem/2531)|[마라톤 틱택토](https://www.acmicpc.net/problem/3024)|
 
