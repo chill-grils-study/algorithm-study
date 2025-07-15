@@ -7,11 +7,6 @@ let count = 0
 
 // 해당 위치에 퀸을 놓을 수 있는지 검사
 function checkBoard (board, y, x) {
-  // 세로 방향
-  for (let i = 0; i < y; i++) {
-    if (board[i][x] === 'Q') return false
-  }
-
   // 왼쪽 위 대각선
   for (let i = y - 1, j = x - 1; i >= 0 && j >= 0; i--, j--) {
     if (board[i][j] === 'Q') return false
