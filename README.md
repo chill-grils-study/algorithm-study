@@ -46,4 +46,4 @@
 |Week 16|[Contact](https://www.acmicpc.net/problem/1013)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[빙산](https://www.acmicpc.net/problem/2573)|
 |Week 17|[댄스파티](https://www.acmicpc.net/problem/2831)|[N-Queen](https://www.acmicpc.net/problem/9663)|[줄세우기](https://www.acmicpc.net/problem/2631)|
 |week 18|[두개의 탑](https://www.acmicpc.net/problem/2118)|[MooTube](https://www.acmicpc.net/problem/15591)|[빌런 호석](https://www.acmicpc.net/problem/22251)|
-|week 20|[다각형의 면적](https://www.acmicpc.net/problem/2166)|||
+|week 20|[다각형의 면적](https://www.acmicpc.net/problem/2166)|[보드 점프](https://www.acmicpc.net/problem/3372)||
