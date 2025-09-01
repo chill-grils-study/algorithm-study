@@ -49,4 +49,4 @@
 |week 20|[다각형의 면적](https://www.acmicpc.net/problem/2166)|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|[탑](https://www.acmicpc.net/problem/2493)|
 |week 21|[옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)|[여행 가자](https://www.acmicpc.net/problem/1976)|[랭킹전 대기열](http://acmicpc.net/problem/20006)|
 |week 22|[뱀](https://www.acmicpc.net/problem/3190)|[비밀번호](https://www.acmicpc.net/problem/2780)|[미로 탐색](https://www.acmicpc.net/problem/2178)|
-|week 23|[주식](https://www.acmicpc.net/problem/11501)|[K물류창고](https://www.acmicpc.net/problem/23350)|[]()|
+|week 23|[주식](https://www.acmicpc.net/problem/11501)|[K물류창고](https://www.acmicpc.net/problem/23350)|[전구와 스위치](https://www.acmicpc.net/problem/2138)|
