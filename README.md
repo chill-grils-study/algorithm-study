@@ -52,4 +52,4 @@
 |Week 23|[주식](https://www.acmicpc.net/problem/11501)|[K물류창고](https://www.acmicpc.net/problem/23350)|[전구와 스위치](https://www.acmicpc.net/problem/2138)|
 |Week 24|[숫자카드](https://www.acmicpc.net/problem/2591)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[창고 다각형](https://www.acmicpc.net/problem/2304)|
 |Week 25|[삼각그래프](https://www.acmicpc.net/problem/4883)|[단축키 지정](https://www.acmicpc.net/problem/1283)|[동전 2](https://www.acmicpc.net/problem/2294)|
-|Week 26|[안전 영역](https://www.acmicpc.net/problem/2468)|[]()|[]()|
+|Week 26|[안전 영역](https://www.acmicpc.net/problem/2468)|[암호화된 비밀번호](https://www.acmicpc.net/problem/9549)|[]()|
