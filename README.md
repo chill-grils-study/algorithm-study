@@ -53,4 +53,4 @@
 |Week 24|[숫자카드](https://www.acmicpc.net/problem/2591)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|[창고 다각형](https://www.acmicpc.net/problem/2304)|
 |Week 25|[삼각그래프](https://www.acmicpc.net/problem/4883)|[단축키 지정](https://www.acmicpc.net/problem/1283)|[동전 2](https://www.acmicpc.net/problem/2294)|
 |Week 26|[안전 영역](https://www.acmicpc.net/problem/2468)|[암호화된 비밀번호](https://www.acmicpc.net/problem/9549)|[꿀 따기](https://www.acmicpc.net/problem/21758)|
-|Week 27|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[문자 해독](https://www.acmicpc.net/problem/1593)||
+|Week 27|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[문자 해독](https://www.acmicpc.net/problem/1593)|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|
