@@ -5,9 +5,6 @@ function solution(wLength, sLength, w, s) {
 
   for (let i = 0; i < wLength; i++) {
     wCount.set(w[i], (wCount.get(w[i]) || 0) + 1);
-  }
-
-  for (let i = 0; i < wLength; i++) {
     sCount.set(s[i], (sCount.get(s[i]) || 0) + 1);
   }
 
