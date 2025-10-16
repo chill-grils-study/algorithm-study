@@ -4,7 +4,7 @@ const path = process.platform === "linux" ? "/dev/stdin" : "../input.txt";
 const input = fs.readFileSync(path, "utf8").trim().split("\n");
 const n = parseInt(input[0]);
 const balls = input[1].split('');
-
+// 69532	448
 if (n <= 2) {
   console.log(0);
   process.exit();
@@ -47,7 +47,7 @@ const answer = Math.min(movesToRedLeft, movesToRedRight, movesToBlueLeft, movesT
 console.log(answer);
 
 
-// 결국 (전체 특정 색상 공 수) - (왼쪽부터 연속된 특정 색상 공 수)
+// 결국 (전체 특정 색상 공 수) - (왼쪽부터 연속된 특정 색상 공 수) 27640	212
 const totalRed = (balls.match(/R/g) || []).length;
 const totalBlue = n - totalRed;
 
