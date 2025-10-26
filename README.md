@@ -9,7 +9,7 @@
 3. 각 주차별 Directory Name: 'Week{num}'
    - num : 2자리 숫자로
    - ex) Week01
-5. Directory Name: ``문제번호_이름``
+5. File Name: ``문제번호_이름``
    - 백준 : 2573_jh.java
 6. Commit Message: ``[Solve] ✍ 문제번호.문제명``
    - [Solve] ✍ 2573.빙산
@@ -55,3 +55,4 @@
 |Week 26|[안전 영역](https://www.acmicpc.net/problem/2468)|[암호화된 비밀번호](https://www.acmicpc.net/problem/9549)|[꿀 따기](https://www.acmicpc.net/problem/21758)|
 |Week 27|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[문자 해독](https://www.acmicpc.net/problem/1593)|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|
 |Week 28|[목차 세기](https://www.acmicpc.net/problem/25956)|[LCS](https://www.acmicpc.net/problem/9251)|[볼 모으기](https://www.acmicpc.net/problem/17615)|
+|Week 29|[정수 삼각형](https://www.acmicpc.net/problem/1932)|||
