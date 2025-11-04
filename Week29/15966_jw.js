@@ -13,16 +13,27 @@ const N = Number(input[idx++]);
 const arr = input[idx++].split(" ").map(Number);
 //자신앞에 dp max값 +1
 
-const dp = Array(N).fill(1);
-let cnt =1; //초기값 1
+const dp = new Map();
 
-for(let i=0;i<N;i++){
-    for(let j=0;j<i;j++){
-        if(arr[j]<arr[i]&&arr[j]+1===arr[i]){
-            dp[i]=Math.max(dp[i],dp[j]+1);
-            cnt=Math.max(dp[i],cnt);
-        }
-    }
+let max=0;
+
+for(num of arr){
+    const prevCnt = dp.get(num-1)||0;
+    const nowCnt  = prevCnt+1;
+    dp.set(num,nowCnt);
+    max=Math.max(max,nowCnt);
 }
 
-console.log(cnt);
+// const dp = Array(N).fill(1);
+// let cnt =1; //초기값 1
+
+// for(let i=0;i<N;i++){
+//     for(let j=0;j<i;j++){
+//         if(arr[j]<arr[i]&&arr[j]+1===arr[i]){
+//             dp[i]=Math.max(dp[i],dp[j]+1);
+//             cnt=Math.max(dp[i],cnt);
+//         }
+//     }
+// }
+
+console.log(max);
