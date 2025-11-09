@@ -56,4 +56,4 @@
 |Week 27|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[문자 해독](https://www.acmicpc.net/problem/1593)|[겹치는 건 싫어](https://www.acmicpc.net/problem/20922)|
 |Week 28|[목차 세기](https://www.acmicpc.net/problem/25956)|[LCS](https://www.acmicpc.net/problem/9251)|[볼 모으기](https://www.acmicpc.net/problem/17615)|
 |Week 29|[군계일학](https://www.acmicpc.net/problem/15966)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[회의실 배정](https://www.acmicpc.net/problem/1931)
-|Week 30|[전깃줄](https://www.acmicpc.net/problem/2565)|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)|[고층 건물](https://www.acmicpc.net/problem/1027)
+|Week 30|[전깃줄](https://www.acmicpc.net/problem/2565)|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)|[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)
