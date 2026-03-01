@@ -58,3 +58,9 @@
 |Week 29|[군계일학](https://www.acmicpc.net/problem/15966)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[회의실 배정](https://www.acmicpc.net/problem/1931)
 |Week 30|[전깃줄](https://www.acmicpc.net/problem/2565)|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)|[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)
 |Week 31|[숫자고르기](https://www.acmicpc.net/problem/2668)|[괄호제거](https://www.acmicpc.net/problem/2800)|
+
+-----------------------------
+## 2026
+|Week|1|2|3|
+|:---:|:---:|:---:|:---:|
+|Week 1|[타임머신](https://www.acmicpc.net/problem/11657)||||
