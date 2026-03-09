@@ -64,4 +64,4 @@
 |Week|1|2|3|
 |:---:|:---:|:---:|:---:|
 |Week 1|[타임머신](https://www.acmicpc.net/problem/11657)|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[곱셈](https://www.acmicpc.net/problem/1629)
-|Week 2|[댄스타임](https://www.acmicpc.net/problem/30625)|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|||
+|Week 2|[댄스타임](https://www.acmicpc.net/problem/30625)|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)||
