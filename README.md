@@ -32,3 +32,4 @@
 |Week 2|[댄스타임](https://www.acmicpc.net/problem/30625)|[별찍기 - 10](https://www.acmicpc.net/problem/2447)|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)||
 |Week 3|[풍선 맞추기](https://www.acmicpc.net/problem/11509)|[지름길](https://www.acmicpc.net/problem/1446)|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|
 |Week 4|[적록색약](https://www.acmicpc.net/problem/10026)|[유성](https://www.acmicpc.net/problem/10703)|[고층건물](https://www.acmicpc.net/problem/1027)|
+|Week 5|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|||
