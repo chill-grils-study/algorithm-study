@@ -34,4 +34,4 @@
 |Week 4|[적록색약](https://www.acmicpc.net/problem/10026)|[유성](https://www.acmicpc.net/problem/10703)|[고층건물](https://www.acmicpc.net/problem/1027)|
 |Week 5|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[동전1](https://www.acmicpc.net/problem/2293)|
 |Week 6|[토마토](https://www.acmicpc.net/problem/7569)|[알파벳](https://www.acmicpc.net/problem/1987)|[암호화된 비밀번호](https://www.acmicpc.net/problem/9549)|
-|Week 7|[틱택토](https://www.acmicpc.net/problem/7682)|||
+|Week 7|[틱택토](https://www.acmicpc.net/problem/7682)|[스타트와 링크](https://www.acmicpc.net/problem/14889)||
