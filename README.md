@@ -35,4 +35,4 @@
 |Week 5|[문자열 게임 2](https://www.acmicpc.net/problem/20437)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[동전1](https://www.acmicpc.net/problem/2293)|
 |Week 6|[토마토](https://www.acmicpc.net/problem/7569)|[알파벳](https://www.acmicpc.net/problem/1987)|[암호화된 비밀번호](https://www.acmicpc.net/problem/9549)|
 |Week 7|[틱택토](https://www.acmicpc.net/problem/7682)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[곱셈 게임](https://www.acmicpc.net/problem/4370)|https://www.acmicpc.net/problem/11057
-|Week 8|[오르막 수](https://www.acmicpc.net/problem/11057)|[애너그램](https://www.acmicpc.net/problem/6443)||
+|Week 8|[오르막 수](https://www.acmicpc.net/problem/11057)|[애너그램](https://www.acmicpc.net/problem/6443)|[이분 그래프](https://www.acmicpc.net/problem/1707)|
