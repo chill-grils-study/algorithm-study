@@ -5,15 +5,14 @@
 
 using namespace std;
 
-set<string> result;
 string word;
 int wordSize;
 
-// 시간복잡도: O(wordSize! * wordSize)
-// 공간복잡도: O(wordSize * wordSize!)
-void backtracking(string currentWord, int size, vector<bool> visited) {
-    if(size == wordSize) {
-        result.insert(currentWord);
+// 시간복잡도: O(N! * N)
+// 공간복잡도: O(N)
+void backtracking(string currentWord, vector<bool> visited) {
+    if(currentWord.size() == wordSize) {
+        cout << currentWord << "\n";
         return;
     }
 
@@ -40,7 +39,7 @@ void backtracking(string currentWord, int size, vector<bool> visited) {
         }
 
         visited[i] = true;
-        backtracking(currentWord + word[i], size + 1, visited);
+        backtracking(currentWord + word[i], visited);
         visited[i] = false;
     }
 
@@ -55,18 +54,12 @@ int main() {
     while(N--) {
         cin >> word;
 
-        wordSize = word.size();
-
         sort(word.begin(), word.end());
-        result.clear();
 
+        wordSize = word.size();
         vector<bool> visited(wordSize, false);
 
-        backtracking("", 0, visited);
-
-        for(auto item: result) {
-            cout << item << '\n';
-        }
+        backtracking("", visited);
     }
 
     return 0;
