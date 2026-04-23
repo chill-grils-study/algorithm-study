@@ -15,13 +15,15 @@ function solution(s){
     // console.log(arr);
     // let set = new Set();
     let visited = new Array(arr.length).fill(false);
-    btk(arr,"",visited)
+    let result = new Array();
+    btk(arr,"",visited,result);
+    console.log(result.join("\n"))
 }
 
-function btk(arr,word,visited){
+function btk(arr,word,visited,result){
 
     if(word.length===arr.length){
-        console.log(word);
+        result.push(word);
         return; 
     }
     
@@ -29,7 +31,7 @@ function btk(arr,word,visited){
         if(index > 0 && arr[index]===arr[index-1]&&!visited[index-1]) continue;  ///여기서 틀림!!!! 중복 제거할때 set 말고 같은 문자는 앞에거쓰기!
         if(!visited[index]){
             visited[index]=true;
-            btk(arr,word.concat(arr[index]),visited);//맨끝에 문자 추가
+            btk(arr,word.concat(arr[index]),visited,result);//맨끝에 문자 추가
             visited[index]=false;
         }
     }
