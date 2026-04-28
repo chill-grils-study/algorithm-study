@@ -36,4 +36,4 @@
 |Week 6|[토마토](https://www.acmicpc.net/problem/7569)|[알파벳](https://www.acmicpc.net/problem/1987)|[암호화된 비밀번호](https://www.acmicpc.net/problem/9549)|
 |Week 7|[틱택토](https://www.acmicpc.net/problem/7682)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[곱셈 게임](https://www.acmicpc.net/problem/4370)|https://www.acmicpc.net/problem/11057
 |Week 8|[오르막 수](https://www.acmicpc.net/problem/11057)|[애너그램](https://www.acmicpc.net/problem/6443)|[이분 그래프](https://www.acmicpc.net/problem/1707)|
-|Week 9|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|||
+|Week 9|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[additive number](https://leetcode.com/problems/additive-number/description/?envType=problem-list-v2&envId=backtracking)||
