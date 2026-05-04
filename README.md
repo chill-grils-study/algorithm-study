@@ -4,7 +4,7 @@
 ## ✅ How To
 📅 2026.03.25 ~
 
-1. 매주 3문제
+1. [leetcode 미디엄 문제 모음집](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)에서 매주 3문제를 찾아서 올린다
 2. 매주 일요일 ``22:00`` 코드 리뷰
 3. 각 주차별 Directory Name: 'Week{num}'
    - num : 2자리 숫자로
