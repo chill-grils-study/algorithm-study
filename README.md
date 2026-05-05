@@ -37,4 +37,4 @@
 |Week 7|[틱택토](https://www.acmicpc.net/problem/7682)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[곱셈 게임](https://www.acmicpc.net/problem/4370)|https://www.acmicpc.net/problem/11057
 |Week 8|[오르막 수](https://www.acmicpc.net/problem/11057)|[애너그램](https://www.acmicpc.net/problem/6443)|[이분 그래프](https://www.acmicpc.net/problem/1707)|
 |Week 9|[wiggle-subsequence](https://leetcode.com/problems/wiggle-subsequence/description/)|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/788/)|
-|Week 10|[49](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/trees-and-graphs/778/)|[215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)||
+|Week 10|[49](https://leetcode.com/problems/group-anagrams/description/)|[215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[347](https://leetcode.com/problems/top-k-frequent-elements/description/)|
