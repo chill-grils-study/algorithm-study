@@ -45,4 +45,4 @@
 |Week 15|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|
 |Week 16|[디펜스게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|
 |Week 17|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|[요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|
-
+|Week 18|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|||||
