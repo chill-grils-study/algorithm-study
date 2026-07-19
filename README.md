@@ -46,4 +46,4 @@
 |Week 16|[디펜스게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|
 |Week 17|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|[요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|[징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)|
 |Week 18|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|[기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|
-|Week 19|[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)||||
+|Week 19|[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|||
