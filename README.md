@@ -49,4 +49,4 @@
 |Week 19|[베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|
 |Week 20|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|[가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861?language=python3)|
 |Week 21|[스티커 모으기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[순위검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|
-|Week 22|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|
+|Week 22|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|[테이블 해시 함수] (https://school.programmers.co.kr/learn/courses/30/lessons/147354)|
