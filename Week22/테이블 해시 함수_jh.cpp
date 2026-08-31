@@ -8,7 +8,6 @@ using namespace std;
 int solution(vector<vector<int>> data, int col, int row_begin, int row_end) {
     const int ROWS = data.size();
     const int COLUMNS = data[0].size();
-    vector<int> results;
     int standardCol = col - 1;
     int answer = 0;
     
@@ -19,19 +18,12 @@ int solution(vector<vector<int>> data, int col, int row_begin, int row_end) {
         return a[standardCol] < b[standardCol];
     });
     
-    for(int i = 0; i < ROWS; i++) {
+    for(int i = row_begin - 1; i <= row_end - 1; i++) {
         int sum = 0;
-        if(i >= row_begin - 1 && i <= row_end - 1) {
-            for(int j = 0; j < COLUMNS; j++) {
-                sum += data[i][j] % (i + 1);
-            }
-            results.push_back(sum);
+        for(int j = 0; j < COLUMNS; j++) {
+            sum += data[i][j] % (i + 1);
         }
-    }
-    
-    for(int result : results) {
-        // XOR 연산자가 있더군.
-        answer ^= result;    
+        answer ^= sum;
     }
     
     return answer;
