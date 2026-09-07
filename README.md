@@ -51,3 +51,4 @@
 |Week 21|[스티커 모으기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[순위검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|
 |Week 22|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|
 |Week 23|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|[퍼즐게임](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
+|Week 24|[리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
