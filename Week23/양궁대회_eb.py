@@ -11,7 +11,7 @@ def solution(n, info):
             if best_result < result or (best_result == result and selected[::-1] > best_result_arr[::-1]):
                 best_result = result
                 best_result_arr = selected[:]
-        return
+            return
         
         # 현재 점수에서 안 이기려고 할 때 
         selected[idx] = 0

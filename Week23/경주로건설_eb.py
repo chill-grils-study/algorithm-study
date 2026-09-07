@@ -3,7 +3,6 @@ from heapq import heappush, heappop
 dx = [-1, 1, 0, 0]   # 상하우좌
 dy = [0, 0, 1, -1]
 
-
 def solution(board):
     n = len(board)
     INF = float('inf')

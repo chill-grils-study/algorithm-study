@@ -1,5 +1,4 @@
 def solution(diffs, times, limit):
-    answer = 0
     def binary_search():
         left = min(diffs)
         right = max(diffs)
@@ -7,7 +6,6 @@ def solution(diffs, times, limit):
             mid = (left + right) // 2
             
             if simulation(mid):
-                answer = mid
                 right = mid
             else:
                 left = mid + 1
