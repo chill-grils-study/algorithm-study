@@ -52,4 +52,4 @@
 |Week 22|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|
 |Week 23|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|[퍼즐게임](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|[양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)|
 |Week 24|[리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352?language=python3)|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|
-|Week 25|[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907#)|[카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829)||||
+|Week 25|[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907#)|[카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829)|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|||
