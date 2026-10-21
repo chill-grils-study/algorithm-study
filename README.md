@@ -54,4 +54,4 @@
 |Week 24|[리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352?language=python3)|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|
 |Week 25|[거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907#)|[카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829)|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|||
 |Week 26|[2차원 동전](https://school.programmers.co.kr/learn/courses/30/lessons/131703)|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|
-|Week 27|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)||
+|Week 27|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
