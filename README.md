@@ -56,4 +56,4 @@
 |Week 26|[2차원 동전](https://school.programmers.co.kr/learn/courses/30/lessons/131703)|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|
 |Week 27|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|[방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
 |Week 28|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|[석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)|[숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)|
-|Week 29|[바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373)|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)||
+|Week 29|[바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373)|[최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)|[메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
